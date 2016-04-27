@@ -15,7 +15,7 @@ namespace ApplicationEglise.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page. by CK";
+            ViewBag.Message = "Your application description page. by CKd";
 
             return View();
         }
